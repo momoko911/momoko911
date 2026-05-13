@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/view?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20ve&fontSize=50" width="100%" />
 
 # 👋 Hi there, I'm momoka-io
 
