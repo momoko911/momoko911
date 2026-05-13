@@ -34,16 +34,6 @@ I am a graduate student majoring in Computer Science, focusing on **Java Backend
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=momoko911&show_icons=true&theme=radical&include_all_commits=true" />
-  &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=momoko911&layout=compact&theme=radical&hide_long_generated=true" />
-</p>
-
----
-
 ## 🎯 Current Focus & Career Interests
 
 * ☕ **High-Concurrency Backend:** Deep diving into high-concurrency architecture design
